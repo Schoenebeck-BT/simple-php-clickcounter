@@ -1,0 +1,5 @@
+clickcounter:
+  build: ./clickcounter
+  ports:
+    - "8080:80"
+
